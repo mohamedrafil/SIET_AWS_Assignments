@@ -1,44 +1,28 @@
 # SIET_AWS_Assignments
-Repo for SIET AWS Assignments
 
 # 1 ETC
-
-## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
 ![image](https://github.com/user-attachments/assets/976d9815-7f72-4755-ac6e-169094bb4de3)
-
 
 
 # 2 AWS Cloud Quest Badge
 
-## Please add a screenshot of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
-
-## Please add a URL of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
-
+As I've completed only 58% I couldn't get the cloud quest practitioner badge
+![image](https://github.com/user-attachments/assets/da1fc7ce-34a5-44fc-812c-aaa7615c5b0c)
 
 # 3 AWS 3 Tier Architecture Implementation
 
-## Please add the screenshot of the final page of the AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
-
-## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+https://dev.to/mohamed_rafil/three-tier-architecture-application-deployment-f8c
 
 
 # 4 AWS 101 Workshop
 URL: https://catalog.workshops.aws/aws101/en-US
 
-## Please add the screenshot of the final page of the AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
+URL: https://dev.to/mohamed_rafil/website-building-28ld
 
-## Please add a URL of your dev.to blog containing the screenshots of AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
+![Screenshot 2025-03-31 233552](https://github.com/user-attachments/assets/e0fb695d-444f-4b6d-aba7-a99d369e0b0c)
 
 
 # 5 AWS Service
-
-## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
 AWS - CloudTrail
 > https://dev.to/mohamed_rafil/aws-cloudtrail-4e37
 
