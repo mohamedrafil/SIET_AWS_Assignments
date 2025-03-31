@@ -4,7 +4,8 @@ Repo for SIET AWS Assignments
 # 1 ETC
 
 ## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
-> Replace this line while adding the screenshot / answer
+![image](https://github.com/user-attachments/assets/976d9815-7f72-4755-ac6e-169094bb4de3)
+
 
 
 # 2 AWS Cloud Quest Badge
@@ -38,6 +39,7 @@ URL: https://catalog.workshops.aws/aws101/en-US
 # 5 AWS Service
 
 ## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
-> Replace this line while adding the screenshot / answer
+AWS - CloudTrail
+> https://dev.to/mohamed_rafil/aws-cloudtrail-4e37
 
 
