@@ -6,7 +6,6 @@
 
 # 2 AWS Cloud Quest Badge
 
-As I've completed only 58% I couldn't get the cloud quest practitioner badge
 ![image](https://github.com/user-attachments/assets/da1fc7ce-34a5-44fc-812c-aaa7615c5b0c)
 
 # 3 AWS 3 Tier Architecture Implementation
